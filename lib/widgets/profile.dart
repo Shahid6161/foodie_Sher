@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:foodie_bunny/api/auth.dart';
+//import 'package:foodie_bunny/api/auth.dart';
 import 'dart:ui';
 
 import 'package:foodie_bunny/api/firebase_api.dart';

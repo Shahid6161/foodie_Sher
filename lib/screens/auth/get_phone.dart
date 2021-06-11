@@ -64,11 +64,11 @@ class _PhoneAuthGetPhoneState extends State<PhoneAuthGetPhone> {
     super.dispose();
   }
 
-  Future<bool> _onBack() async {
-    Navigator.push(
-        context, MaterialPageRoute(builder: (context) => AuthPage()));
-    return true;
-  }
+  // Future<bool> _onBack() async {
+  //   Navigator.push(
+  //       context, MaterialPageRoute(builder: (context) => AuthPage()));
+  //   return true;
+  // }
 
   final scaffoldKey =
       GlobalKey<ScaffoldState>(debugLabel: "scaffold-get-phone");
