@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240315131529",
+    "project_id": "foodie-sher",
+    "storage_bucket": "foodie-sher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240315131529:android:1707735d6bca731a020858",
+        "android_client_info": {
+          "package_name": "com.example.foodie_bunny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240315131529-vvsvij9c258471077aest0sppaa9i5ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrxhudvJCNiOzfilIxxcKy77boWZTnaUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240315131529-vvsvij9c258471077aest0sppaa9i5ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
