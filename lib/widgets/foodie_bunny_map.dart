@@ -18,7 +18,7 @@ class _FoodieBunnyMapState extends State<FoodieBunnyMap> {
   Set<Marker> _markers = {};
   GoogleMapController _controller;
   final places =
-      GoogleMapsPlaces(apiKey: "AIzaSyAVYmkPrqJg2T0IxUa89RTJGgkdvMI5teU");
+      GoogleMapsPlaces(apiKey: "Your-key");
 
   @override
   void initState() {
